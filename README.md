@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter(Advanced), SpringBoot and AIML technologies to add it up to my development**
 
-- 👯 I’m currently working on **Drowsiness Detection System**
-
 - 📫 How to reach me **internco1234@gmail.com**
 
 - ⚡ Fun fact **I am an overthinker and I worry way tooo much...not a fun fact but a fact about me**
