@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Bhagyashri Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **Proxy Management system using GA**
+
+- 🌱 I’m currently learning **Flutter(Advanced),AI agents and SpringBoot**
+
+- 📫 How to reach me **bhagyashri2684@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
